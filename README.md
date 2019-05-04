@@ -1,6 +1,6 @@
 # CSharp_TaskManager
-
-05/04/2019 1. iteration-----------------------------------------------------------------
+05/04/2019 1. iteration
+--------------------------------------------------------------------------------------
 
 Personal version with a task manager application written in c#
 
@@ -14,5 +14,6 @@ Features:
 -Online Search for selected process
 
 Proper documentation and testing is included
+
 ----------------------------------------------------------------------------------------
 
